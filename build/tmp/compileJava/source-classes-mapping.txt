@@ -1,0 +1,14 @@
+com/dennispaskel/giflib/AppConfig.java
+ com.dennispaskel.giflib.AppConfig
+com/dennispaskel/giflib/data/CategoryRepository.java
+ com.dennispaskel.giflib.data.CategoryRepository
+com/dennispaskel/giflib/data/GifRepository.java
+ com.dennispaskel.giflib.data.GifRepository
+com/dennispaskel/giflib/controller/CategoryController.java
+ com.dennispaskel.giflib.controller.CategoryController
+com/dennispaskel/giflib/controller/GifController.java
+ com.dennispaskel.giflib.controller.GifController
+com/dennispaskel/giflib/model/Category.java
+ com.dennispaskel.giflib.model.Category
+com/dennispaskel/giflib/model/Gif.java
+ com.dennispaskel.giflib.model.Gif
